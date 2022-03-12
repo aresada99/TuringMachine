@@ -1,0 +1,4 @@
+String: 00 -----> AcceptedRoute Taken: q1 q2 q3 q5 q5 q2 q2 qA
+
+String: 000 -----> RejectedRoute Taken: q1 q2 q3 q4 qR
+
